@@ -493,7 +493,7 @@
  * respective stack in tiled layout.
  * https://dwm.suckless.org/patches/cfacts/
  */
-#define CFACTS_PATCH 0
+#define CFACTS_PATCH 1
 
 /* This patch allows color attributes to be set through the command line.
  * https://dwm.suckless.org/patches/cmdcustomize/
@@ -1170,7 +1170,7 @@
  * https://github.com/bakkeby/patches/blob/master/dwm/dwm-vanitygaps-6.2.diff
  * https://github.com/bakkeby/patches/blob/master/dwm/dwm-cfacts-vanitygaps-6.2.diff
  */
-#define VANITYGAPS_PATCH 0
+#define VANITYGAPS_PATCH 1
 
 /* This patch adds outer gaps for the monocle layout.
  * Most gaps patches tries to avoid gaps on the monocle layout, as it is often used as a
